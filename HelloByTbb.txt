@@ -1,6 +1,11 @@
 Test to commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 ZHENG YULONG
 =======
 Wang Sheng commit le
 >>>>>>> 683a39d7fc11bc947e8da512f173b9b36170ccb4
+=======
+Wang Sheng commit le
+I also change
+>>>>>>> e183f102d909c04ff9b2ccd518b170c143a660ba
